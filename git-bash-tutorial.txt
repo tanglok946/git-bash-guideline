@@ -1,5 +1,7 @@
 git init (for first upload only)
 
+git add .
+
 git commit -m "inital commit"
 
 git status
@@ -9,4 +11,5 @@ git branch -M main
 git remote add origin http....
 
 git push -u origin main
+
 
