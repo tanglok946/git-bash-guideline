@@ -1,3 +1,5 @@
+cd to directory
+
 git init (for first upload only)
 
 git add .
@@ -13,4 +15,5 @@ git remote add origin http....
 git push -u origin main
 
 #note that this only applicable to first commit only (repo is empty)
+
 
