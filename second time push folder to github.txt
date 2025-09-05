@@ -1,0 +1,15 @@
+cd to directories
+
+git init
+
+git branch -M main
+
+git remote add origin http...
+
+git pull origin main --allow-unrelated-histories
+
+git add .
+
+git commit -m "Update"
+
+git push origin main
